@@ -1,7 +1,0 @@
--rw-r--r-- 1 oejkh 197609    0 Oct  4 14:05 words.txt
--rw-r--r-- 1 oejkh 197609  160 Oct  4 12:33 sorted_words.txt
--rw-r--r-- 1 oejkh 197609  259 Oct  2 02:24 shoppinglist.py
--rw-r--r-- 1 oejkh 197609  314 Oct  2 02:17 oddeven.py
--rw-r--r-- 1 oejkh 197609  646 Oct  4 14:05 worted_words.txt
--rw-r--r-- 1 oejkh 197609 1.5K Oct  4 01:12 202235021_김세린_lecture_note_4.md
-total 11K
